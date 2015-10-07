@@ -1,0 +1,3 @@
+rootProject.name = 'rnNavigatorSample'
+
+include ':app'
